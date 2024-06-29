@@ -1,0 +1,14 @@
+# ------ Nombre de la receta ------ #
+Queque De Chocolate
+# ----------- Categoria ----------- #
+Postre
+# --------- Ingredientes ---------- #
+1/2 de harina
+1 barra de chocolate
+1 cucharada de azucar
+1 cucharada de azucar
+# --------- Instrucciones --------- #
+1.- mezclar los ignredientes
+2.- introducir la mezcla al horno
+# -------------- FIN -------------- #
+
